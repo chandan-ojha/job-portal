@@ -30,7 +30,7 @@ Follow the instructions
 - Create database file `database/database.sqlite` and update the `.env` file with the database path
 - Run `php artisan migrate --seed` to create the database tables and seed the database
 - Run `php artisan serve` to start the server and access the application
-- 
+
 #### Caution
 This project is intended for experiment.
 
